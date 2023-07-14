@@ -16,6 +16,6 @@ Data provided by Henley & Partners.
 * Conversely, Southwest Asian and East African passports made up a majority of the lowest quartile bucket, while the UAE, Israel, and Seychelles passports stand out as more powerful than their neighbors.
 * The largest concentration of total visa-free destinations by passport were 52 countries accessible and 188 countries accessible.
 * Two valuable overlays for this dataset would be GDP and political ties. Henley & Partners cites that "[countries] that have higher gross domestic product (GDP) per capita  according to World Bank data also enjoy more visa-free destinations."
-* With politics playing a heavy role in the strength of passports, Henly & Partners also cites what is known as 'fragility.' "One of the primary indicators [of fragility] is the level of violence in a country,  measured by bombings, terrorist attacks, ethnic conflict, and organized crime."
-* Lastly, Henley & Parnters cites the University of Gothernburg, arguing that "the form of government does not have as strong a correlation with passport strength as other factors," such as fragility and GDP.
+* With politics playing a heavy role in the strength of passports, Henley & Partners also cites what is known as 'fragility.' "One of the primary indicators [of fragility] is the level of violence in a country,  measured by bombings, terrorist attacks, ethnic conflict, and organized crime."
+* Lastly, Henley & Partners cites the University of Gothenburg, arguing that "the form of government does not have as strong a correlation with passport strength as other factors," such as fragility and GDP.
 * On the whole, citizens with passports from wealthy, stable countries enjoy greater travel freedom overall.
